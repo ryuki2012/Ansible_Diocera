@@ -1,0 +1,8 @@
+rmachines:
+ hosts:
+  vm01:
+   ansible_host: 192.168.56.102
+  vm02:
+   ansible_host: 192.168.56.103
+
+
